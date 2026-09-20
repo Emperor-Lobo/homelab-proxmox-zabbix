@@ -7,7 +7,7 @@ Lab perso pour tester des trucs (Docker, Ansible, Terraform, Vagrant) sans risqu
 - CPU : Core i3-6100, 4 cœurs physiques
 - RAM : 16 Go -> large
 - Disque : 512 Go -> large marge (images Docker, snapshots)
-- Réseau : à préciser
+
 
 RAM abondante par rapport au nombre de cœurs dispo. Donc c'est le CPU qui limite en premier dès que 2-3 VMs bossent en même temps, pas la mémoire. Sur une autre machine (plus de cœurs, moins de RAM) ce serait l'inverse.
 
