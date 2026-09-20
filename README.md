@@ -4,7 +4,7 @@
 Lab perso pour tester des trucs (Docker, Ansible, Terraform, Vagrant) sans risquer une vraie infra.
 
 ## Machine hôte
-- CPU : Core i3 (2-4 cœurs) -> le vrai bottleneck
+- CPU : Core i3-6100, 4 cœurs physiques
 - RAM : 16 Go -> large
 - Disque : 512 Go -> large marge (images Docker, snapshots)
 - Réseau : à préciser
