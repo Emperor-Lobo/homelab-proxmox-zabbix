@@ -52,7 +52,7 @@ PBS. Gratuit, intégré, dédup/compression correctes. Pas encore configuré sur
 
 ## Limites
 - CPU = bottleneck principal
-- Pas fait pour du K8s multi-nœuds
+- Inadapté pour du K8s multi-nœuds
 - Portfolio servi en HTTP simple, pas de certificat SSL pour l'instant
 
 ## Idées pour la suite
